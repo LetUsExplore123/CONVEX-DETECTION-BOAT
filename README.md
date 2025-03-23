@@ -1,7 +1,7 @@
 # CONVEX-DETECTION-BOT
 
 ## Overview
-The Convex Detection Boat is an Arduino-based autonomous vehicle designed to detect convex obstacles using ultrasonic sensors and navigate accordingly. The boat intelligently maneuvers based on real-time sensor data, making it useful for autonomous navigation applications.
+The Convex Detection Bot is an Arduino-based autonomous vehicle designed to detect convex obstacles using ultrasonic sensors and navigate accordingly. The boat intelligently maneuvers based on real-time sensor data, making it useful for autonomous navigation applications.
 
 ## Features
 - Obstacle Detection: Uses ultrasonic sensors to detect convex obstacles in its path.
