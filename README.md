@@ -30,8 +30,8 @@ The project's main logic is implemented in the Arduino code. The boat:
 - PCB Design & Fabrication: Contributed to designing and fabricating the circuit board.
 
 ## Video Demonstration
-Check out the working demonstration of the project here:
-(https://drive.google.com/drive/folders/1ms64hAYMmi_6JH2KPJnYmjJuN5tXWMbR?usp=sharing)
+Watch the project in action here:  
+[Google Drive Link]{ https://drive.google.com/drive/folders/1ms64hAYMmi_6JH2KPJnYmjJuN5tXWMbR?usp=sharing}
 
 ## Potential Enhancements
 - Improved Navigation Algorithm: Optimize movement for smoother obstacle avoidance.
